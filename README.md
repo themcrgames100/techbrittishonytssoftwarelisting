@@ -9,3 +9,5 @@
 # If you want to talk, please follow this link: https://discord.gg/BMzHe77qj3
 
 # Come follow my YouTube here: > https://www.youtube.com/@techbrittish_onyt/featured, Extras > https://www.youtube.com/@techbrittishextras_onyt
+
+# RULES OF THIS REPO
