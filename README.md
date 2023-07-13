@@ -1,2 +1,3 @@
-# techbrittishonytssoftwarelisting
-A GitHub page that Tech owns and hosts his software here
+# TechBrittish's Software Listing
+
+A place where the software is held and kept
