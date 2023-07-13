@@ -11,3 +11,4 @@
 # Come follow my YouTube here: > https://www.youtube.com/@techbrittish_onyt/featured, Extras > https://www.youtube.com/@techbrittishextras_onyt
 
 # RULES OF THIS REPO
+# Be welcoming and open-minded, Be respectful, and be empathetic
