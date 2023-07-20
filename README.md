@@ -1,5 +1,5 @@
 # TechBrittish's Software Listing
-
+# The password for the malware archives are SubtoPrydev, and run the malware in a VM
 # A place where the software is held and kept, in a decent place safely and securely.
 
 # We are open to any software as long as it follows GitHub's rules
